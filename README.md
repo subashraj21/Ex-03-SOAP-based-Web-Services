@@ -20,11 +20,10 @@ Click File->New Project. Choose Java Web and then Web Application and click Next
 Give your Project a suitable Name and then click Next.
 #### Step 4:
 In the next window, make sure you have selected Server as “GlassFish Server” and Java EE Version as “Java EE 7 Web”. Click Finish.
- ![4](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/ba86ef64-1e67-4eba-9935-96d4b158fcde)
+
+![4](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/ba86ef64-1e67-4eba-9935-96d4b158fcde)
 
  
-
-
 #### Step 5:
 Your new project will appear in the Projects tab in the left-most part of NetBeans.
 
@@ -38,7 +37,7 @@ Right click your Project and select New->Web-Service.
 #### Step 7:
 In the new window, give your web service a name and a package name. Click Finish.
  
- ![7](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/f6e330f4-a62a-44bb-9ce1-53e54db577f4)
+![7](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/f6e330f4-a62a-44bb-9ce1-53e54db577f4)
 
 
 
@@ -49,8 +48,6 @@ A new coding tab will open that contains your web service.
 Expand the folder “Web Services” under your project. You should see your newly created web service. Right-click on it and choose “Add Operation”.
 
 ![9](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/c0dc772c-c5ff-466f-bc8a-908a1f956291)
-
-
 
 
 #### Step 10:
@@ -77,7 +74,9 @@ Deploying might take time depending on the size of the project.
 
 ### Step 14:
 Once your project is successfully deployed, right-click on your web service name and select “Test Web Service”
- ![14](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/4c82ecec-fe36-4826-96bb-37dd25bb0f75)
+
+
+![14](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/4c82ecec-fe36-4826-96bb-37dd25bb0f75)
 
  
 
@@ -91,7 +90,8 @@ A new browser window will appear which will look like this
 
 #### Step 16: 
 You can give inputs to your web service and check whether it is working properly or not. If it is working properly, you will get a page like this
- ![16](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/4a6cac39-12aa-42c7-8495-77e777e89bcb)
+
+![16](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/4a6cac39-12aa-42c7-8495-77e777e89bcb)
 
  
 ### Client-side:
@@ -116,7 +116,8 @@ A new window will appear, in that carefully choose appropriate web service and c
  
 #### Step 5:
 The Project file will be filled with the location to the WSDL file of the web service. If you prefer, you can give a package name. Or else click Finish
- ![c5](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/8bb6e72e-8085-42c6-b88e-db310a49605a)
+
+![c5](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/8bb6e72e-8085-42c6-b88e-db310a49605a)
 
 
 
